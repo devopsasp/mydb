@@ -1,1 +1,6 @@
-
+{
+ employeeId:1,
+ employeeName:'Peter',
+ department:'Sales',
+ designation:'Manager'
+}
